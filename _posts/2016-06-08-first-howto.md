@@ -1,5 +1,6 @@
 ---
-layout: howto
+layout: post
+category: howto
 title: First How To
 ---
 
