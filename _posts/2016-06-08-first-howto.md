@@ -1,5 +1,5 @@
 ---
-layout: wowto
+layout: howto
 title: First How To
 ---
 
