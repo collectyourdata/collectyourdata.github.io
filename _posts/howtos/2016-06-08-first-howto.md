@@ -20,7 +20,7 @@ Install CollectYourData CGI
 - cd /etc/apache2/mods-enabled
 - sudo ln -s ../mods-available/cgi.load
 - sudo service apache2 reload
-- Download the "CYD-iPhone.cgi" and place it in "/usr/lib/cgi-bin/" location on your Ubuntu Server then run the command
+- Download the <a href="https://github.com/collectyourdata/CYD-iPhone-CGI">CYD-iPhone.cgi</a> and place it in "/usr/lib/cgi-bin/" location on your Ubuntu Server then run the command
 - sudo chmod +x /usr/lib/cgi-bin/CYD-iPhone.cgi
 
 Install CYD App. Use Xcode to compile and install to iPhone
