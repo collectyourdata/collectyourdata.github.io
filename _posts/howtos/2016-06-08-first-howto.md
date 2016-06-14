@@ -36,6 +36,6 @@ This is the first How-To which will have you install Ubuntu, Splunk Light, and t
 - Click SEND to send a test message</p>
 <p></p>
 
-<p>Final Splunk setup
+<p>Final Splunk setup<br>
 - If everything is setup correctly so far, your test message should be contained in "/tmp/CollectYourData-iPhone"<br>
 - Now just go into your Splunk Light software and setup the CollectYourData-iPhone file to be read continously by Splunk Light</p>
