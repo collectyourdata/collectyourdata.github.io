@@ -19,8 +19,8 @@ This is the first How-To which will have you install Ubuntu, Splunk Light, and t
 <p></p>
 
 <p>Install CollectYourData CGI<br>
-- First we need to setup Apache to allow running of CGI's
-{% highlight bash %}cd /etc/apache2/mods-enabled{% endhighlight %}
+- First we need to setup Apache to allow running of CGI's<br>
+- -> cd /etc/apache2/mods-enabled<br>
 - -> sudo ln -s ../mods-available/cgi.load<br>
 - -> sudo service apache2 reload<br>
 - Download the <a href="https://github.com/collectyourdata/CYD-iPhone-CGI">CYD-iPhone.cgi</a> and place it in the "/usr/lib/cgi-bin/" directory on your Ubuntu Server then run the command<br>
