@@ -6,10 +6,10 @@ title: Ubuntu, Splunk, and CYD CGI
 
 This is the first How-To which will have you install Ubuntu, Splunk Light, and the CGI for receiving the data from the CYD iPhone App. This initial How-To is a very quick run through but we will expand upon it adding screen captures and more detail on the installs and setup.
 
-Install Ubuntu Server
-- Go to http://www.ubuntu.com/server to download and install
-- More detailed steps will be added to assist you on the install
-- The Ubuntu Server I have installed is 14.04 LTS Server
+<p>Install Ubuntu Server</p>
+<p>- Go to http://www.ubuntu.com/server to download and install</p>
+<p>- More detailed steps will be added to assist you on the install</p>
+<p>- The Ubuntu Server I have installed is 14.04 LTS Server</p>
 
 Install Splunk Light on your Ubuntu Server
 - The Splunk site has the instructions located <a href="http://docs.splunk.com/Documentation/SplunkLight/6.4.1/Installation/InstallonLinux">here</a>
