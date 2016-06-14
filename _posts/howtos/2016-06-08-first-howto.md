@@ -1,7 +1,7 @@
 ---
 layout: post
 category: howto
-title: First How To
+title: Ubuntu, Splunk Server, and capture CYD iPhone Data
 ---
 
 How to make a how to
