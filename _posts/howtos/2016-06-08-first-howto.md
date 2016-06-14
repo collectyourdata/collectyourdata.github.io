@@ -8,7 +8,7 @@ This is the first How-To which will have you install Ubuntu, Splunk Light, and t
 <p></p>
 
 <p>Install Ubuntu Server<br>
-- Go to http://www.ubuntu.com/server to download and install<br>
+- Go to <a href="http://www.ubuntu.com/server">http://www.ubuntu.com/server</a> to download and install<br>
 - More detailed steps will be added to assist you on the install<br>
 - The Ubuntu Server I have installed is 14.04 LTS Server</p>
 <p></p>
